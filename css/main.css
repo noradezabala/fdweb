@@ -3,4 +3,22 @@
     text-align: center;
     font-family: helvetica;
     color: #d4b4b4; 
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 } 
+.grupoimagenesyvideo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.MiPaginaWeboporlomenosunintento {
+    text-aling: center; 
+    font-size: o.5 rem; 
+    color:#d4b4b4;
+    font-family: helvetica;
+}
+body {
+    margin: 20px;
+    box-sizing: border-box;
+}
