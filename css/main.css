@@ -2,7 +2,7 @@
     font-size: 3rem;
     text-align: center;
     font-family: helvetica;
-    color: #d4b4b4; 
+    color: #111111; 
     margin-top: 2rem;
     margin-bottom: 2rem;
 } 
@@ -13,12 +13,16 @@
     gap: 3rem;
 }
 .MiPaginaWeboporlomenosunintento {
-    text-aling: center; 
+margin-top: 1rem;
+margin-bottom: 1rem;
+    text-align: center; 
     font-size: o.5 rem; 
-    color:#d4b4b4;
+    color:#111111;
     font-family: helvetica;
 }
 body {
+    background-color: #cfa7a7;
     margin: 20px;
     box-sizing: border-box;
 }
+.menu
