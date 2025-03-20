@@ -1,0 +1,879 @@
+.page {
+  background-color: #ffffff;
+  height: 595px;
+  width: 842px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.group20 {
+  align-self: flex-start;
+  left: 40px;
+  top: 56px;
+  position: absolute;
+  width: 762px;
+  height: 483px;
+}
+.portfolio-noradezabala-diseñadoragráfica {
+  color: #000000;
+  text-align: left;
+  vertical-align: top;
+  font-size: 12px;
+  font-family: Helvetica;
+  left: 40px;
+  top: 133px;
+  width: 685px;
+  height: 18px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.sobremí {
+  color: #000000;
+  text-align: left;
+  vertical-align: top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 40px;
+  top: 182px;
+  width: 60px;
+  height: 14px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.enlopersonal {
+  color: #000000;
+  text-align: left;
+  vertical-align: top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 42px;
+  top: 463px;
+  width: 104px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.educación {
+  color: #000000;
+  text-align: left;
+  vertical-align: top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 298px;
+  top: 463px;
+  width: 104px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.experiencia {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 552px;
+  top: 230px;
+  width: 76px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.habilidades {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 552px;
+  top: 336px;
+  width: 76px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.idiomas {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 554px;
+  top: 463px;
+  width: 53px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.currículum {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 55px;
+  font-family: Switzer;
+  left: 40px;
+  top: 56px;
+  width: 623px;
+  height: 78.90237426757812px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.vector {
+  width: 761px;
+  left: 41px;
+  top: 124px;
+  position: absolute;
+}
+.rectangle2 {
+  height: 117px;
+  width: 117px;
+  left: 406px;
+  top: 180px;
+  position: absolute;
+}
+.rectangle3 {
+  height: 117px;
+  width: 117px;
+  left: 406px;
+  top: 314px;
+  position: absolute;
+}
+.creativaexigente {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 49px;
+  top: 485px;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.colegiomontetabor_2008_2023 {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  left: 305px;
+  top: 485px;
+  width: 224px;
+  height: 13px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.diseñodelogotipoparalamarcaderopadeportiva-366 {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 559px;
+  top: 252.42px;
+  width: 224px;
+  height: 26px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.español:nativo {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  left: 561px;
+  top: 485px;
+  width: 224px;
+  height: 13px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.udit-universidaddediseñoeinnovacióntecnológica-2023-actualidad {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  left: 305px;
+  top: 511px;
+  width: 224px;
+  height: 28px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.diseñodelogotipoparafundaciónsinánimodelucrodedicadaalasmisionesenkenia-matundafamilia {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 559px;
+  top: 288.42px;
+  width: 224px;
+  height: 39px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.inglés:avanzado {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  left: 561px;
+  top: 511px;
+  width: 90px;
+  height: 14px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.perfeccionistaapasionada {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 117px;
+  top: 485px;
+  width: 78px;
+  height: 41px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.resolutivatrabajadora {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 210px;
+  top: 485px;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.ellipse13 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 490px;
+  left: 202px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse26 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 490px;
+  left: 111px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse28 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 490px;
+  left: 42px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse32 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 490px;
+  left: 298px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse38 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 257.42px;
+  left: 552px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse36 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 490px;
+  left: 554px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse14 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 517px;
+  left: 202px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse27 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 517px;
+  left: 111px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse29 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 517px;
+  left: 42px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse35 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 517px;
+  left: 298px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse39 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 294.42px;
+  left: 552px;
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse37 {
+  background-color: #000000;
+  height: 2px;
+  width: 2px;
+  top: 517px;
+  left: 554px;
+  position: absolute;
+  border-radius: 50%;
+}
+.actualmenteestudioenlaudit,-universidaddediseñoeinnovacióntecnológicaenmadridycursandolacarreradediseñomultimediaygráfico.graciasaestocuentoconunconjuntoampliodehabilidadescreativasytécnicasqueabarcanelbranding,diseñodeidentidadesvisuales,(incluyendologotipos),diseñodepackagingycreacióndemerchandising.poseoexperienciaentipografía,ilustración,diseñodecartelería,asícomoenfotografíaygrabaciónyedicióndevídeo.disfrutotrabajarenequipoconpersonascomprometidasyconunenfoqueprofesionalsimilaralmío,enestassituacionessueloadquiriractituddeliderazgoaunquedisfrutorealizandocualquierrol.porencimadecualquierrasgopersonalparticularmeconsiderounapersonaalaqueleapasionasucarreraydispuestaadarsumáximoesfuerzoparaconseguirlosmejoresresultados.además,yacuentoconexperienciaeneldiseñosobretododelogotiposparaalgunaspequeñasmarcasemergentes. {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  left: 41px;
+  top: 202px;
+  width: 333px;
+  height: 253px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.vector3 {
+  width: 118px;
+  left: 153px;
+  top: 468px;
+  position: absolute;
+}
+.vector7 {
+  width: 150px;
+  left: 379px;
+  top: 468px;
+  position: absolute;
+}
+.vector9 {
+  width: 144px;
+  left: 639px;
+  top: 235px;
+  position: absolute;
+}
+.vector10 {
+  width: 135px;
+  left: 648px;
+  top: 341px;
+  position: absolute;
+}
+.vector8 {
+  width: 167px;
+  left: 618px;
+  top: 468px;
+  position: absolute;
+}
+.group15 {
+  width: 74px;
+  height: 13px;
+  top: 178px;
+  left: 552px;
+  position: absolute;
+}
+.instagram {
+  height: 11px;
+  width: 11px;
+  left: 552px;
+  top: 179.42px;
+  position: absolute;
+}
+.n-zabalaa {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 567px;
+  top: 178px;
+  width: 59px;
+  height: 13px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.group14 {
+  width: 98px;
+  height: 13px;
+  top: 178.42px;
+  left: 638px;
+  position: absolute;
+}
+.-34681219601 {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 653px;
+  top: 178.42px;
+  width: 83px;
+  height: 13px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.localphone {
+  background-color: #ffffff;
+  height: 10px;
+  width: 10px;
+  padding: 0px;
+  left: 638px;
+  top: 179.42px;
+  position: absolute;
+}
+.vector7 {
+  height: 10px;
+  width: 10px;
+  width: 10px;
+  height: 10px;
+}
+.vector8 {
+  background-color: #000000;
+  height: 7.142857074737549px;
+  width: 7.142857074737549px;
+  width: 7.142857074737549px;
+  height: 7.142857074737549px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+.group13 {
+  width: 151px;
+  height: 13px;
+  top: 199.42px;
+  left: 553px;
+  position: absolute;
+}
+.mailoutline {
+  background-color: #ffffff;
+  height: 10px;
+  width: 10px;
+  padding: 0px;
+  left: 553px;
+  top: 200.42px;
+  position: absolute;
+}
+.vector9 {
+  height: 10px;
+  width: 10px;
+  width: 10px;
+  height: 10px;
+}
+.vector10 {
+  background-color: #000000;
+  height: 6.666666507720947px;
+  width: 8.333333015441895px;
+  width: 8.333333015441895px;
+  height: 6.666666507720947px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+.noradezabalag@gmail.com {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 11px;
+  font-family: Helvetica;
+  left: 569px;
+  top: 199.42px;
+  width: 135px;
+  height: 13px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.logofigma {
+  height: 22px;
+  width: 22px;
+  border-radius: 2px;
+  padding: 0px;
+  left: 553px;
+  top: 362px;
+  position: absolute;
+}
+.vector11 {
+  background-color: #000000;
+  height: 15.125px;
+  width: 11px;
+  width: 11px;
+  height: 15.125px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+.logoindesign {
+  height: 22px;
+  width: 22px;
+  left: 553px;
+  top: 409px;
+  position: absolute;
+}
+.frame1 {
+  height: 22px;
+  width: 22px;
+  border-radius: 2px;
+  padding: 0px;
+  left: 628px;
+  top: 362px;
+  position: relative;
+}
+.pr2 {
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 13.809771537780762px;
+  font-family: Helvetica;
+  line-height: auto;
+  border: 0.47058823704719543px solid #000000;
+  top: 3px;
+  left: 3.99px;
+  position: absolute;
+  width: 15px;
+}
+.frame2 {
+  height: 22px;
+  width: 22px;
+  border-radius: 2px;
+  padding: 0px;
+  left: 719px;
+  top: 409px;
+  position: absolute;
+}
+.vector12 {
+  height: 14.713004112243652px;
+  width: 14.634376525878906px;
+  width: 14.634376525878906px;
+  height: 14.713004112243652px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+.vector13 {
+  height: 22px;
+  width: 22px;
+  left: 719px;
+  top: 362px;
+  position: absolute;
+}
+.vector14 {
+  height: 22.066650390625px;
+  width: 22.066650390625px;
+  left: 628px;
+  top: 409px;
+  position: absolute;
+}
+.figma2 {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 9px;
+  font-family: Helvetica;
+  left: 580px;
+  top: 368px;
+  width: 26px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.premierepro {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 9px;
+  font-family: Helvetica;
+  left: 655px;
+  top: 368px;
+  width: 51px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.photoshop {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 9px;
+  font-family: Helvetica;
+  left: 746px;
+  top: 368px;
+  width: 45px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.indesign2 {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 9px;
+  font-family: Helvetica;
+  left: 580px;
+  top: 415px;
+  width: 36px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.illustrator {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 9px;
+  font-family: Helvetica;
+  left: 655px;
+  top: 415px;
+  width: 38px;
+  height: 10px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.visualstudiocode {
+  color: #000000;
+  text-align: left;
+  vertical-align: text-top;
+  font-size: 9px;
+  font-family: Helvetica;
+  left: 746px;
+  top: 410px;
+  width: 48px;
+  height: 20px;
+  position: absolute;
+  line-height: auto;
+  border-style: hidden;
+  outline: none;
+}
+.group18 {
+  width: 66.31005096435547px;
+  height: 10.953092575073242px;
+  left: 658px;
+  top: 487px;
+  position: absolute;
+}
+.vector15 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 658px;
+  top: 487px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector16 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 685.43px;
+  top: 487px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector17 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 671.43px;
+  top: 487px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector18 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 699.43px;
+  top: 487px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector19 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 713.43px;
+  top: 487px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.group19 {
+  width: 66.31005096435547px;
+  height: 10.953092575073242px;
+  left: 658px;
+  top: 513px;
+  position: absolute;
+}
+.vector20 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 658px;
+  top: 513px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector21 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 685.43px;
+  top: 513px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector22 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 671.43px;
+  top: 513px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector23 {
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 699.43px;
+  top: 513px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector24 {
+  background-color: #000000;
+  height: 10.953092575073242px;
+  width: 5.436764717102051px;
+  width: 5.436764717102051px;
+  height: 10.953092575073242px;
+  left: 699.43px;
+  top: 513px;
+  width: 5.436764717102051px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
+.vector25 {
+  height: 10.953092575073242px;
+  width: 10.873529434204102px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  left: 713.43px;
+  top: 513px;
+  width: 10.873529434204102px;
+  height: 10.953092575073242px;
+  position: absolute;
+}
