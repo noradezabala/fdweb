@@ -15,10 +15,11 @@
   left: 40px;
   top: 56px;
   position: absolute;
+  font-family: Helvetica;
   width: 762px;
   height: 483px;
 }
-.portfolio-noradezabala-diseñadoragráfica {
+.portfolionoradezabaladiseñadoragráfica {
   color: #000000;
   text-align: left;
   vertical-align: top;
@@ -128,7 +129,8 @@
   text-align: left;
   vertical-align: text-top;
   font-size: 55px;
-  font-family: Switzer;
+  font-weight: bold;
+  font-family: Helvetica;
   left: 40px;
   top: 56px;
   width: 623px;
@@ -177,6 +179,7 @@
   color: #000000;
   text-align: left;
   vertical-align: text-top;
+  font-family: Helvetica;
   font-size: 11px;
   left: 305px;
   top: 485px;
@@ -187,7 +190,7 @@
   border-style: hidden;
   outline: none;
 }
-.diseñodelogotipoparalamarcaderopadeportiva-366 {
+.diseñodelogotipoparalamarcaderopadeportivatreseisseis {
   color: #000000;
   text-align: left;
   vertical-align: text-top;
@@ -202,10 +205,11 @@
   border-style: hidden;
   outline: none;
 }
-.español:nativo {
+.españolnativo {
   color: #000000;
   text-align: left;
   vertical-align: text-top;
+  font-family: Helvetica;
   font-size: 11px;
   left: 561px;
   top: 485px;
@@ -219,6 +223,7 @@
 .udit-universidaddediseñoeinnovacióntecnológica-2023-actualidad {
   color: #000000;
   text-align: left;
+  font-family: Helvetica;
   vertical-align: text-top;
   font-size: 11px;
   left: 305px;
@@ -245,10 +250,11 @@
   border-style: hidden;
   outline: none;
 }
-.inglés:avanzado {
+.inglésavanzado {
   color: #000000;
   text-align: left;
   vertical-align: text-top;
+  font-family: Helvetica;
   font-size: 11px;
   left: 561px;
   top: 511px;
@@ -397,13 +403,14 @@
   position: absolute;
   border-radius: 50%;
 }
-.actualmenteestudioenlaudit,-universidaddediseñoeinnovacióntecnológicaenmadridycursandolacarreradediseñomultimediaygráfico.graciasaestocuentoconunconjuntoampliodehabilidadescreativasytécnicasqueabarcanelbranding,diseñodeidentidadesvisuales,(incluyendologotipos),diseñodepackagingycreacióndemerchandising.poseoexperienciaentipografía,ilustración,diseñodecartelería,asícomoenfotografíaygrabaciónyedicióndevídeo.disfrutotrabajarenequipoconpersonascomprometidasyconunenfoqueprofesionalsimilaralmío,enestassituacionessueloadquiriractituddeliderazgoaunquedisfrutorealizandocualquierrol.porencimadecualquierrasgopersonalparticularmeconsiderounapersonaalaqueleapasionasucarreraydispuestaadarsumáximoesfuerzoparaconseguirlosmejoresresultados.además,yacuentoconexperienciaeneldiseñosobretododelogotiposparaalgunaspequeñasmarcasemergentes. {
+.textosobremi {
   color: #000000;
   text-align: left;
   vertical-align: text-top;
   font-size: 11px;
   left: 41px;
   top: 202px;
+  font-family: Helvetica;
   width: 333px;
   height: 253px;
   position: absolute;
@@ -455,7 +462,7 @@
   top: 179.42px;
   position: absolute;
 }
-.n-zabalaa {
+.nombreusuarioinstagram {
   color: #000000;
   text-align: left;
   vertical-align: text-top;
@@ -477,7 +484,7 @@
   left: 638px;
   position: absolute;
 }
-.-34681219601 {
+.numerodetelefono {
   color: #000000;
   text-align: left;
   vertical-align: text-top;
@@ -549,7 +556,7 @@
   top: 0px;
   position: absolute;
 }
-.noradezabalag@gmail.com {
+.direcciondecorreo {
   color: #000000;
   text-align: left;
   vertical-align: text-top;
@@ -876,4 +883,51 @@
   width: 10.873529434204102px;
   height: 10.953092575073242px;
   position: absolute;
+}
+.menu {
+  position: fixed;
+  top: 0;
+  font-family: helvetica;
+  align-items: right;
+  left: 0;
+  width: 100%;
+  background-color: #ffffff;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+  z-index: 0;
+}
+.menu ul {
+  display: flex;
+  list-style: none;
+  padding: 1rem;
+  display: flex;
+  justify-content: right;
+  gap: 2rem;
+  margin-top: 1, 5rem;
+}
+.menu li {
+  margin: 0 20px;
+  margin-bottom: 1, 5rem;
+  margin-top: 1, 5rem;
+  align-items: right;
+  display: inline-block;
+  padding: 10px 15px;
+  border-right: 2px solid #ffffff;
+}
+.menu li:last-child {
+  border-right: none;
+}
+.menu a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 1.2rem;
+}
+.menu a:hover {
+  color: #11111147;
+}
+.logonzmenu {
+  height: 50px;
+  width: auto;
+  color: #111111;
 }
