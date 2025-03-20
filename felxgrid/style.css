@@ -1,0 +1,76 @@
+.titulo {
+  font-size: 3rem;
+  text-align: center;
+  font-family: helvetica;
+  color: #111111;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  position: relative;
+  z-index: -10;
+}
+.grupoimagenesyvideo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+body {
+  background-color: #ffffff;
+  margin: 20px;
+  box-sizing: border-box;
+  padding-top: 60px;
+}
+.menu {
+  position: fixed;
+  top: 0;
+  font-family: helvetica;
+  align-items: right;
+  gap: 5rem;
+  left: 0;
+  width: 100%;
+  background-color: #d9dadf;
+  text-align: right;
+  font-size: 1.5rem;
+}
+.menu ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: right;
+  gap: 2rem;
+  margin-top: 1, 5rem;
+}
+.menu li {
+  margin: 0 20px;
+  margin-bottom: 1, 7rem;
+  margin-top: 1, 7rem;
+  margin-right: 2.7rem;
+  margin-left: 2.7rem;
+}
+.menu a {
+  text-decoration: none;
+  color: #111111;
+  font-weight: bold;
+  gap: 5rem;
+  text-align: right;
+}
+.menu a:hover {
+  background-color: #d9dadf;
+  align-items: right;
+}
+.MiPaginaWeboporlomenosunintento {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 0.5rem;
+  color: #111111;
+  font-family: helvetica;
+}
+.Bienvenidoamipagina {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 0.5rem;
+  color: #111111;
+  font-family: helvetica;
+}
