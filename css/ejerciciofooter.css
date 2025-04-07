@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+header,
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+  margin: auto;
+  padding: 1rem;
+}
+.columna {
+  flex: 1 1 100%;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+.columna:nth-child(odd) {
+  background: #f0f0f0;
+}
+/* Tablet (min-width: 600px) — 2 columnas */
+@media (min-width: 600px) {
+  .columna {
+    /* 2 columnas por fila: cada una ~50% del ancho */
+    flex: 1 1 50%;
+  }
+}
+
+/* Desktop (min-width: 900px) — 3 columnas */
+@media (min-width: 900px) {
+  .columna {
+    /* 3 columnas por fila: cada una ~33.33% del ancho */
+    flex: 1 1 33.33%;
+  }
+}
